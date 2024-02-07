@@ -1,0 +1,180 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    background-color: #ffffff;
+    color: #434455;
+}
+
+h1{
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+}
+
+h2{
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    text-align: center;
+    color: #2e2f42;
+}
+
+h3{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+button{
+    cursor: pointer;
+}
+
+/* header */
+
+header ul{
+    list-style-type: none;
+}
+
+.menu{
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    font-weight: 500;
+}
+
+.menu:focus,
+.menu:hover{
+    color: #404bbf;
+}
+
+.logo{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.logo span{
+    color: #2e2f42;
+}
+
+.contacts{
+    
+    font-style: normal;
+}
+
+.contact-list{
+    text-decoration: none;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.contacts a:focus,
+.contacts a:hover{
+    color: #404bbf;
+}
+
+/* section 1 */
+
+.solution{
+    background: #2e2f42;
+}
+
+.solution-title{
+    line-height: 1.07;
+    font-size: 56px;
+    text-align: center;
+    color: #fff;
+}
+
+.order-button{
+    background-color: #4d5ae5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+}
+
+.order-button:focus,
+.order-button:hover {
+    background-color: #404bbf;
+}
+
+/* section 2 */
+
+.advantages ul{
+    list-style-type: none;
+}
+
+.advantages-title{
+    
+    color: #2e2f42;
+}
+
+
+/* section 3 */
+
+.our-team{
+    background-color: #f4f4fd;
+}
+
+.our-team ul{
+    list-style-type: none;
+}
+
+.team-list{
+    background-color: #fff;
+}
+
+.teammate-title{
+    text-align: center;
+}
+
+.team-paragraph{
+    font-size: 16px;
+}
+
+/* section 4 */
+
+.portfolio ul{
+    list-style-type: none;
+}
+
+/* footer */
+
+.footer-style{
+    background-color: #2e2f42;
+}
+
+.footer-logo{
+    text-decoration: none;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #4d5ae5;
+}
+
+.footer-logo-span{
+    color: #f4f4fd;
+}
+
+.footer-paragraph{
+    color: #f4f4fd;
+}
